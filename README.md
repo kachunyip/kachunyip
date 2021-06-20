@@ -9,3 +9,5 @@
  - 🌱 I’m currently learning Golang;
 
 <br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kachunyip&show_icons=true&theme=vue)
