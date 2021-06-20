@@ -1,4 +1,15 @@
-### Hi there 👋
+### <center>Hey 👋, I'm KachunYip</center>
+
+<br />
+<br />
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ 
+ **Talking about Personal Stuffs**
+ - 🌱 I’m currently learning Golang;
+
+<br />
+
 
 <!--
 **kachunyip/kachunyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
