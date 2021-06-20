@@ -1,4 +1,4 @@
-**<p align="center"> Hey 👋, I'm KachunYip </p>**
+### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br />
 <br />
